@@ -9,7 +9,6 @@ import urllib2
 import re
 import sys
 import time
-from scipy.optimize.optimize import Result
 
 
 set_of_links = ()  #set of crawled links
